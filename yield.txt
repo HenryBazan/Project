@@ -1,0 +1,9 @@
+eggs:Will yield two eggs.
+waffles:Varies from package to package but I'll say 12.
+wraps:Big wraps equal less wraps, small wraps equals more.
+steak:One steak if single, two if married. 
+salmon:Same as steak.
+chicken:A whole chicken
+sandwich:A lonely meal
+tacos:As many as you desire
+soup:A sad meal, unless made with love.

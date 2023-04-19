@@ -1,0 +1,9 @@
+eggs:You will need two eggs, cooking oil, salt, and pepper
+waffles:You will need waffle mix and a waffle maker.
+wraps:You will need a wrap of your choice, veggies, and a protein.
+steak:Steak and seasoning
+salmon:Fish
+chicken:A bird.
+sandwich:Bread and what ever you can do to make it special
+tacos:The delicious stuff
+soup:water
